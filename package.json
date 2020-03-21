@@ -4,7 +4,9 @@
   "description": "",
   "main": "parse-pdf.ts",
   "dependencies": {
-    "@types/node": "^13.9.2"
+    "@types/node": "^13.9.2",
+    "canvas": "^2.6.1",
+    "tesseract.js": "^2.1.0"
   },
   "devDependencies": {
     "require": "^2.4.20",
