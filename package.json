@@ -12,7 +12,7 @@
     "typescript": "^3.8.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node parse-pdf.ts"
   },
   "author": "",
   "license": "ISC"
